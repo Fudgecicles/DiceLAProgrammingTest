@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DiceInvaders"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DiceInvaders">
+				<Option output="C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/DiceInvaders.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="0"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiceInvaders"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DiceInvaders/fast">
+				<Option output="C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/DiceInvaders.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="0"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiceInvaders/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/steve/Documents/DiceLAProgrammingTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Components/CollisionComponent.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Components/Component.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Components/ComponentFlags.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Components/EnemyComponent.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Components/PlayerComponent.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Components/PositionComponent.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Components/SpriteRendererComponent.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Constants.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/EntityManager.cpp">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/EntityManager.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Main.cpp">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Systems/ComponentSystem.cpp">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Systems/ComponentSystem.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Systems/SpriteRendererSystem.cpp">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Systems/SpriteRendererSystem.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/Systems/System.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/TimeManager.cpp">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/TimeManager.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/World.cpp">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/World.h">
+			<Option target="DiceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/steve/Documents/DiceLAProgrammingTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

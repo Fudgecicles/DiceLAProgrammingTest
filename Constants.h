@@ -1,0 +1,11 @@
+//
+// Created by steve on 3/30/2019.
+//
+
+#ifndef DICEINVADERS_CONSTANTS_H
+#define DICEINVADERS_CONSTANTS_H
+
+#define WORLD_WIDTH 640
+#define WORLD_HEIGHT 480
+
+#endif //DICEINVADERS_CONSTANTS_H
